@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-praneeth/static/css/main.1eddcca8.css",
+    "main.js": "/portfolio-praneeth/static/js/main.7cb2ea3c.js",
+    "static/media/mypic.jpg": "/portfolio-praneeth/static/media/mypic.74c46201598745740414.jpg",
+    "static/media/Praneeth_Yennam_resume.pdf": "/portfolio-praneeth/static/media/Praneeth_Yennam_resume.8b6ec5631cf46ca7fa77.pdf",
+    "index.html": "/portfolio-praneeth/index.html",
+    "main.1eddcca8.css.map": "/portfolio-praneeth/static/css/main.1eddcca8.css.map",
+    "main.7cb2ea3c.js.map": "/portfolio-praneeth/static/js/main.7cb2ea3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eddcca8.css",
+    "static/js/main.7cb2ea3c.js"
+  ]
+}
