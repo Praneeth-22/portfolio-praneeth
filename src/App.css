@@ -1,0 +1,28 @@
+.app {
+  background-color: var(--body-color);
+  font-family: var(--body-font);
+}
+
+.app__container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width:992px){
+  .container{
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
+}
+
+@media screen and (max-width:576px){
+  
+}
+@media screen and (max-width:350px){
+  .container{
+    margin-left: var(--mb-1);
+    margin-right: var(--mb-1);
+  }
+}
