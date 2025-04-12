@@ -15,7 +15,7 @@ const About = () => {
             I'm Praneeth Yennam, a New York-based software developer with a passion for building clean, scalable solutions across the stack. From crafting REST APIs and automating workflows to enhancing UI experiences, I love solving real-world problems through code.
             </p>
             <p className="about__description">
-            With a Master's in Computer and Information Sciences from SUNY Albany and professional experience at the New York State Insurance Fund, I've worked hands-on with technologies like Java, Go, C#, React, and PL/SQL—always focused on writing efficient, reliable, and well-structured code. Whether I’m debugging backend logic or refining a front-end detail, I enjoy the challenge of constant learning and iteration.
+            With a Master's in Computer and Information Sciences from SUNY Albany and professional experience at the New York State Insurance Fund, I've worked hands-on with technologies like ASP .NET Core, React, Python and PL/SQL—always focused on writing efficient, reliable, and well-structured code. Whether I’m debugging backend logic or refining a front-end detail, I enjoy the challenge of constant learning and iteration.
             </p>
             <p className="about__description">
             What drives me is the excitement of progress—picking up new tools, understanding how systems work, and building things that make a difference. I believe good software blends performance with user experience, and I aim to bring that balance to every project I take on.
