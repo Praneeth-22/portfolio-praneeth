@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-praneeth/static/css/main.1eddcca8.css",
-    "main.js": "/portfolio-praneeth/static/js/main.7cb2ea3c.js",
-    "static/media/mypic.jpg": "/portfolio-praneeth/static/media/mypic.74c46201598745740414.jpg",
-    "static/media/Praneeth_Yennam_resume.pdf": "/portfolio-praneeth/static/media/Praneeth_Yennam_resume.8b6ec5631cf46ca7fa77.pdf",
-    "index.html": "/portfolio-praneeth/index.html",
-    "main.1eddcca8.css.map": "/portfolio-praneeth/static/css/main.1eddcca8.css.map",
-    "main.7cb2ea3c.js.map": "/portfolio-praneeth/static/js/main.7cb2ea3c.js.map"
+    "main.css": "/portfolio-praneeth/home/static/css/main.608ce70b.css",
+    "main.js": "/portfolio-praneeth/home/static/js/main.857b2c97.js",
+    "static/media/mypic.jpg": "/portfolio-praneeth/home/static/media/mypic.74c46201598745740414.jpg",
+    "static/media/Praneeth_Yennam_resume.pdf": "/portfolio-praneeth/home/static/media/Praneeth_Yennam_resume.8b6ec5631cf46ca7fa77.pdf",
+    "index.html": "/portfolio-praneeth/home/index.html",
+    "main.608ce70b.css.map": "/portfolio-praneeth/home/static/css/main.608ce70b.css.map",
+    "main.857b2c97.js.map": "/portfolio-praneeth/home/static/js/main.857b2c97.js.map"
   },
   "entrypoints": [
-    "static/css/main.1eddcca8.css",
-    "static/js/main.7cb2ea3c.js"
+    "static/css/main.608ce70b.css",
+    "static/js/main.857b2c97.js"
   ]
 }
